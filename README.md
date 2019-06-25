@@ -5,7 +5,9 @@ we can build it with an affordable price yet having the functions we need. I wil
 will be written in C language.
 
 Images of the ESC:
+
 ![Top of the PCB](https://raw.githubusercontent.com/englebert/EchoWii32ESC/master/schematics/v1/EchoWii32ESC-top.png)
+![Bottom of the PCB](https://raw.githubusercontent.com/englebert/EchoWii32ESC/master/schematics/v1/EchoWii32ESC-bottom.png)
 
 Author: Englebert
 
